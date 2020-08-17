@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1597674214369.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E027ED71",
+    "lastKnownWriteTime" : 1591173256,
+    "last_content_update" : 1591173256,
+    "path" : "C:/Users/HGraham/OneDrive - Food Standards Agency/projects/risky foods/riskyfoods/R/scraper.R",
+    "project_path" : "R/scraper.R",
+    "properties" : {
+        "cursorPosition" : "102,35",
+        "scrollLine" : "48",
+        "tempName" : "Untitled2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
